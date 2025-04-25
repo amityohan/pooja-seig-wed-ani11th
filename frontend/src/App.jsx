@@ -33,7 +33,7 @@ function App() {
     //   🎉 Happy Anniversary Website coming soon!
     // </div>
     <div className="font-sans text-center text-gray-800 bg-pink-50 min-h-screen">
-      <div classname="relative">
+      <div className="relative">
       
       <motion.div
       initial={{ opacity: 0 }}
